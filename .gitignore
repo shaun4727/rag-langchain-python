@@ -3,4 +3,3 @@ langchain-venv/
 .venv/
 
 # Ignore environment variables containing your keys
-.env
